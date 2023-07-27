@@ -13,13 +13,13 @@ const enNavbar = {
       position: 'left',
     },
     {
-      to: "https://www.aishort.top/en/feedback",
+      to: "https://prompt.28apk.com/en/feedback",
       label: "Feedback",
       position: "left",
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      href: "https://github.com/jmy126/prompts",
       position: "right",
       className: "header-github-link",
     },
