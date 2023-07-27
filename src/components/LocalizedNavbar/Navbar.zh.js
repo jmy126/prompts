@@ -26,11 +26,11 @@ const zhNavbar = {
         },
         {
           label: '文字处理',
-          href: 'https://tools.newzone.top/',
+          href: 'https://tools.28apk.com/',
         },
         {
           label: '工具收藏',
-          href: 'https://nav.newzone.top',
+          href: 'https://28apk.com/',
         },
         {
           label: 'Find on Product Hunt',
@@ -39,13 +39,13 @@ const zhNavbar = {
       ],
     },
     {
-      to: "https://www.aishort.top/feedback",
+      to: "https://prompt.28apk.com/feedback",
       label: "反馈",
       position: "left",
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      href: "https://github.com/jmy126/prompts",
       position: "right",
       className: "header-github-link",
     },
