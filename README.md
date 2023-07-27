@@ -20,13 +20,13 @@
 
 🆕 **定时更新**：AiShort 的提示词源自网络精选、用户投稿以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ，并会定时更新，为用户带来新的提示词和思维启发。
 
-📦 **开箱即用**：<https://www.aishort.top/>
+📦 **开箱即用**：<https://prompt.28apk.com/>
 
 <a href="https://discord.gg/PZTQfJ4GjX">
    <img src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge" alt="chat on Discord" />
 </a>
 
-你可以查看[使用手册](https://www.aishort.top/docs/guides/getting-started)来了解 AiShort 的使用方法。此外，你还可以阅读 [AiShort 开发博客](https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html) 了解本项目的开发思路和初衷。
+你可以查看[使用手册](https://https://prompt.28apk.com/docs/guides/getting-started)来了解 AiShort 的使用方法。此外，你还可以阅读 [AiShort 开发博客](https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html) 了解本项目的开发思路和初衷。
 
 ## 浏览器扩展
 
