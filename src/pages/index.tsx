@@ -49,7 +49,7 @@ const DESCRIPTION = translate({
   message: "让生产力加倍的 ChatGPT 快捷指令",
 });
 const SUBMIT_URL =
-  "https://github.com/rockbenben/ChatGPT-Shortcut/discussions/11";
+  "https://github.com/jmy126/prompts/discussions/11";
 
 type UserState = {
   scrollTopPosition: number;
